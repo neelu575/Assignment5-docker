@@ -1,0 +1,139 @@
+{
+	"products": [
+	  {
+		"id": "1",
+		"title": "Dell Vostro 3420 Laptop",
+		"specification": "Core i3 12th Gen",
+		"price": "$399",
+		"category": "Electronics",
+		"image": "https://m.media-amazon.com/images/I/617Ob9YOSSL._SL1080_.jpg",
+		"orders": [
+		  {
+			"order_id": "1",
+			"customer_name": "Biren",
+			"image": "https://m.media-amazon.com/images/I/617Ob9YOSSL._SL1080_.jpg",
+			"order_date": "2021-04-10",
+			"quantity": 2,
+			"total_price": "$798"
+		  },
+		  {
+			"order_id": "2",
+			"customer_name": "Michael",
+			"image": "https://m.media-amazon.com/images/I/617Ob9YOSSL._SL1080_.jpg",
+			"order_date": "2022-04-10",
+			"quantity": 1,
+			"total_price": "$399"
+		  }
+		]
+	  },
+	  {
+		"id": "2",
+		"title": "Noise Vivid Call SmartWatch",
+		"specification": "Noise Vivid Call Bluetooth Calling Smartwatch with Metallic dial",
+		"price": "$20",
+		"image": "https://m.media-amazon.com/images/I/61+DiE3OxRL._SL1500_.jpg",
+		"category": "Electronics",
+		"orders": [
+		  {
+			"order_id": "1",
+			"customer_name": "Emily Nguyen",
+			"image": "https://m.media-amazon.com/images/I/61+DiE3OxRL._SL1500_.jpg",
+			"order_date": "2023-05-01",
+			"quantity": 1,
+			"total_price": "$20"
+		  }
+		]
+	  },
+	  {
+		"id": "3",
+		"title": "Boult Audio Z25",
+		"specification": "Boult Audio Z25 True Wireless in Ear Earbuds with 32H Playtime",
+		"price": "$15",
+		"image": "https://m.media-amazon.com/images/I/71vlByXS-JL._SL1500_.jpg",
+		"category": "Electronics",
+		"orders": [
+		  {
+			"order_id": "1",
+			"customer_name": "Harry Brook",
+			"image": "https://m.media-amazon.com/images/I/71vlByXS-JL._SL1500_.jpg",
+			"order_date": "2021-05-05",
+			"quantity": 3,
+			"total_price": "$45"
+		  },
+		  {
+			"order_id": "2",
+			"customer_name": "Stoinis",
+			"image": "https://m.media-amazon.com/images/I/71vlByXS-JL._SL1500_.jpg",
+			"order_date": "2022-10-07",
+			"quantity": 1,
+			"total_price": "$15"
+		  }
+		]
+	  },
+		{
+			"id": "4",
+			"title": "Samsung Tab s8",
+			"image" :"https://m.media-amazon.com/images/I/81Vs371KLML._SL1500_.jpg",
+			"price": "$315",
+			"specification": "Samsung Galaxy Tab S8 27.94 cm (11 inch) Display, RAM 8 GB, ROM 128 GB Expandable, S Pen in-Box, Wi-Fi Tablet, Graphite",
+			"category": "Electronics",
+			"orders": []
+		  },
+		  {
+			"id": "5",
+			"title": "Sony Digital Vlog Camera ZV 1",
+			"image" : "https://m.media-amazon.com/images/I/61EGyktwgTL._SL1500_.jpg",
+			"specification": "Sony Digital Vlog Camera ZV 1 (Compact, Video Eye AF, Flip Screen, in-Built Microphone, Bluetooth Shooting Grip, 4K Vlogging Camera and Content Creation)",
+			"price": "$615",
+			"category": "Electronics",
+			"orders": [
+			  {
+				"order_id": "1",
+				"customer_name": "Jofra Archer",
+				"image" : "https://m.media-amazon.com/images/I/61EGyktwgTL._SL1500_.jpg",
+				"quantity": 3,
+				"total_price": "$1845",
+				"order_date": "2023-04-10"
+			  }
+			]
+		  },
+		  {
+			"id": "6",
+			"title": "Sony HT-S20R",
+			"image" : "https://m.media-amazon.com/images/I/71+s6K1eovL._SL1500_.jpg",
+			"specification": "Sony HT-S20R Real 5.1ch Dolby Digital Soundbar for TV with subwoofer and Compact Rear Speakers, 5.1ch Home Theatre System (400W,Bluetooth & USB",
+			"price": "$235",
+			"category": "Electronics",
+			"orders": []
+		  },
+		  {
+			"id": "7",
+			"title": "Fire-Boltt Invincible Plus 1.43",
+			"image" : "https://m.media-amazon.com/images/I/71dxFO2yAwL._SL1500_.jpg",
+			"specification": "Fire-Boltt Invincible Plus 1.43 AMOLED Display Smartwatch with Bluetooth Calling, TWS Connection, 300+ Sports Modes, 110 in-Built Watch Faces, 4GB",
+			"price": "$85",
+			"category": "Electronics",
+			"orders": []
+		  },
+		  {
+			"id": "8",
+			"title": "Apple iPhone 14 Pro Max (256 GB) - Deep Purple",
+			"image" : "https://m.media-amazon.com/images/I/71yzJoE7WlL._SL1500_.jpg",
+			"specification": "Apple iPhone 14 Pro Max (256 GB) - Deep Purple",
+			"price": "$999",
+			"category": "Electronics",
+			"orders": [
+			  {
+				"order_id": "1",
+				"customer_name": "Nicholus Pooran",
+				"image" : "https://m.media-amazon.com/images/I/71yzJoE7WlL._SL1500_.jpg",
+				"quantity": 1,
+				"total_price": "$999",
+				"order_date": "2022-04-10"
+			  }
+			]
+		  }
+	]
+  }
+  
+  

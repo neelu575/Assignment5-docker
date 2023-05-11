@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="../Styles/style.css" type="text/css">
+</head>
+<body>
+	<header>
+		<h1>Products Catalog</h1>
+	</header>
+	<div class="card-container">
+		<% for (var i=0; i<listData.length; i++) { %>
+				<div class="card">
+					<div class="card-img">
+						<img src="<%= listData[i].image %>" alt="Image Here">
+					</div>
+					<div class="card-body">
+						<% if (listData.length == 1) { %>
+							<h3><a style="text-decoration: none;" href="/products/<%= listData[i].id %>/orders"><%= listData[i].title %></a></h3>
+							<% } 
+							 else { %>
+						<h3><a style="text-decoration: none;" href="/products/<%= listData[i].id %>"><%= listData[i].title %></a></h3>
+						<% } %>
+						<h5>Specification: <%= listData[i].specification %></h5>
+						<h5>Price: <%= listData[i].price %></h5>
+						<h5>Category: <%= listData[i].category %></h5>
+					</div>
+				</div>
+			<% } %>
+	</div>
+</body>
+</html>
