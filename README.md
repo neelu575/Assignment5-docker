@@ -19,7 +19,7 @@ This app uses EJS templates to display data on the front-end. The EJS templates 
 
 To run this app in docker conainer, follow these steps:
 
--In the docker terminal, use command "touch Dockerfile" to create the Dockerfile and setup the environment of the docker file.
+-in the docker terminal, use command "touch Dockerfile" to create the Dockerfile and setup the environment of the docker file.
 
 -Create Docker Image by running : "docker build -t docker-nodejs ."
 
@@ -30,3 +30,6 @@ To run this app in docker conainer, follow these steps:
 -Check running docker container by "docker ps"
 
 Open your browser and go to http://localhost:8000 to view the app.
+
+To see the ppt you can click on the link what i provided n classes and you can see the raw, so you can click on the raw ppt will download in your system. There you can see our ppt
+
